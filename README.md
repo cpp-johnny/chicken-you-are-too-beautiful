@@ -12,5 +12,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://github.com/cpp-johnny/image-bank/blob/main/cat.jpg" width="142.2" height="98.667"/>
+<img src="https://github.com/cpp-johnny/image-bank/blob/main/cat.jpg" width="213.3" height="148"/>
 
