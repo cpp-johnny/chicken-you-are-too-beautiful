@@ -12,4 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://www.google.com/search?q=cute+ragdoll+cat+wallpaper&rlz=1CAFYBR_enSG1034&sxsrf=ALiCzsabEttZHJk6zYAzRwTjQk1YUiD-vg:1670340342549&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjA6pXWpuX7AhWt6XMBHcZnDnMQ_AUoAXoECAIQAw&biw=1410&bih=789&dpr=1.6#imgrc=2ago6lPaZYrGEM)
+![]([https://www.google.com/search?q=cute+ragdoll+cat+wallpaper&rlz=1CAFYBR_enSG1034&sxsrf=ALiCzsabEttZHJk6zYAzRwTjQk1YUiD-vg:1670340342549&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjA6pXWpuX7AhWt6XMBHcZnDnMQ_AUoAXoECAIQAw&biw=1410&bih=789&dpr=1.6#imgrc=2ago6lPaZYrGEM](https://github.com/cpp-johnny/image-bank/blob/main/cat.jpg))
