@@ -7,4 +7,3 @@
 
 
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp-johnny&show_icons=true&theme=radical)
-[![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp-johnny)](https://github.com/anuraghazra/github-readme-stats)
