@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 <p align="center">
 # gif 鸡你太美 test
 </p>
